@@ -1,0 +1,17 @@
+.a{
+    border-style: solid;
+    border-width: medium;
+    background-color: grey;
+    height: 100px;
+    text-align: center;
+}
+.b{
+    border-style: solid;
+    border-width: medium;
+    background-color:darkslategrey;
+    height: 100px;
+    color: white;
+}
+.bear{
+    margin: 40px;
+}
